@@ -98,9 +98,9 @@
           <scope>provided</scope>
         </dependency>
         <dependency>
-          <groupId>org.jboss.arquillian.container</groupId>
-          <artifactId>arquillian-glassfish-embedded-3.1</artifactId>
-          <version>1.0.1</version>
+          <groupId>fish.payara.arquillian</groupId>
+          <artifactId>arquillian-payara-server-4-embedded</artifactId>
+          <version>1.0.Beta2</version>
           <scope>test</scope>
         </dependency>
         <dependency>
